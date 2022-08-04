@@ -2,7 +2,7 @@
 <a href="https://www.instagram.com/syndaehyun">
     <img 
         src="http://img.shields.io/badge/-Instagram-White?style=flat&logo=Instagram&link=https://www.instagram.com/syndaehyun/"
-        style="height : auto; margin-left : 10px; margin-right : 10px;"/>
+        style="backgroundcolor:white; height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
 ### Hi there 👋
 
