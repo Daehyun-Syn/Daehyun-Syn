@@ -1,6 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=4,2,2,5,30&type=waving&height=300&text=welcome!&fontSize=70&desc=       Syndaehyun's%20Github%20Profile&fontColor=FFFFFF)
 
- <a href="https://www.instagram.com/syndaehyun" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+<a href="https://www.instagram.com/syndaehyun" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
+  <a href="https://progressive-form.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
 ### Hi there 👋
 
 <!--
