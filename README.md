@@ -1,9 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=4,2,2,5,30&type=waving&height=300&text=welcome!&fontSize=70&desc=       Syndaehyun's%20Github%20Profile&fontColor=FFFFFF)
-<a href="https://www.instagram.com/syndaehyun">
-    <img 
-        src="http://img.shields.io/badge/-Instagram-White?style=flat&logo=Instagram&link=https://www.instagram.com/syndaehyun/"
-        style="backgroundcolor:white; height : auto; margin-left : 10px; margin-right : 10px;"/>
-</a>
+
+<a href="https://www.instagram.com/syndaehyun" target="_blank"><img src="https://img.shields.io/badge/#E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
 ### Hi there 👋
 
 <!--
