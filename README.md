@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&height=400&text=Welcome!&desc=Syndaehyun's%20Github%20Profile)
+![header](https://capsule-render.vercel.app/api?type=waving&height=250&text=Welcome!&desc=Syndaehyun's%20Github%20Profile)
 
 ### Hi there 👋
 
