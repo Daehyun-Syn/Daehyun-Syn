@@ -6,7 +6,7 @@
 ✨Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아가는<br> 주니어 개발자 신대현입니다👋
 
 <br>
-☁️SNS List
+☁️SNS list
 
  <a href="https://www.instagram.com/syndaehyun" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
   <a href="https://progressive-form.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistroy-09B3AF?style=flat-square&logo=Storyblok&logoColor=white"/></a>
