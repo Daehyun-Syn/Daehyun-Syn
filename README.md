@@ -1,6 +1,8 @@
 
 <div align=center> 
- ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=4,2,2,5,30&type=waving&height=300&text=welcome!&fontSize=70&desc=       Syndaehyun's%20Github%20Profile&fontColor=FFFFFF)
+
+![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=4,2,2,5,30&type=waving&height=300&text=welcome!&fontSize=70&desc=       Syndaehyun's%20Github%20Profile&fontColor=FFFFFF)
+ 
 ✨Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아가는<br> 주니어 개발자 신대현입니다👋
 
 <br>
