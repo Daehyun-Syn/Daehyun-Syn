@@ -33,7 +33,8 @@ daehyun2ya@gmail.com
 
 <img src="https://img.shields.io/badge/Database--97979A?style=for-the-badge&logo=BookStack&logoColor=white">
 <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=MariaDB&logoColor=white">
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><br>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white"><
+<img src="https://img.shields.io/badge/RedisDB-DC382D?style=for-the-badge&logo=Redis&logoColor=white"><br>
 
 <img src="https://img.shields.io/badge/Environment--97979A?style=for-the-badge&logo=BookStack&logoColor=white">
 <img src="https://img.shields.io/badge/Amazon EC2-FF9900?style=for-the-badge&logo=Amazon EC2&logoColor=white">
