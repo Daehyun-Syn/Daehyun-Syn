@@ -1,5 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?color=gradient&customColorList=4,2,2,5,30&type=waving&height=300&text=welcome!&fontSize=70&desc=       Syndaehyun's%20Github%20Profile&fontColor=FFFFFF)
-<center>
+<div align=center> 
 ✨Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아가는<br> 주니어 개발자 신대현입니다👋
 
 <br>
@@ -57,4 +57,4 @@ daehyun2ya@gmail.com
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Daehyun-Syn)](https://github.com/Daehyun-Syn/)
 
 
-</center>
+</div>
