@@ -43,7 +43,8 @@ daehyun2ya@gmail.com
 
 <img src="https://img.shields.io/badge/Etc--97979A?style=for-the-badge&logo=BookStack&logoColor=white">
 <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white"><br>
+<img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=GitHub&logoColor=white">
+<img src="https://img.shields.io/badge/GitKraken-179287?style=for-the-badge&logo=GitKraken&logoColor=white"><br>
 <br>
 <br>
 <br>
