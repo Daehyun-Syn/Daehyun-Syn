@@ -25,9 +25,9 @@
 
 |개발기간|프로젝트명|구분|팀원|
 |:---:|:---:|:---:|:---:|
-|2022.03 <br>~<br> 2022.06|Teachable Machine을 활용한 학생관리 및 커뮤니티 서비스(https://github.com/Daehyun-Syn/COMG_Project)|🙆‍♂️<br>개인 프로젝트|신대현|
-|2021.07 <br>~<br> 2021.11|식품 알레르기 환자를 위한 식품 알레르기 예방 서비스(https://github.com/Daehyun-Syn/2021_PaaS-TA_Project)|👨‍👩‍👧‍👦<br>팀 프로젝트|신대현,오주현,김학겸,이진아|
-|2021.03 <br>~<br> 2021.10|TensorFlow와 Papago API를 사용한 음식 인식 및 번역 서비스(https://github.com/Daehyun-Syn/2021_Hanium_Project)|👨‍👩‍👧‍👧<br>팀 프로젝트|신대현,오주현,유연준,<br>이진아,김학겸|
+|2022.03 <br>~<br> 2022.06|[Teachable Machine을 활용한 학생관리 및 커뮤니티 서비스](https://github.com/Daehyun-Syn/COMG_Project)|🙆‍♂️<br>개인 프로젝트|신대현|
+|2021.07 <br>~<br> 2021.11|[식품 알레르기 환자를 위한 식품 알레르기 예방 서비스](https://github.com/Daehyun-Syn/2021_PaaS-TA_Project)|👨‍👩‍👧‍👦<br>팀 프로젝트|신대현,오주현,김학겸,이진아|
+|2021.03 <br>~<br> 2021.10|[TensorFlow와 Papago API를 사용한 음식 인식 및 번역 서비스](https://github.com/Daehyun-Syn/2021_Hanium_Project)|👨‍👩‍👧‍👧<br>팀 프로젝트|신대현,오주현,유연준,<br>이진아,김학겸|
 
 <br>
 <br> 
