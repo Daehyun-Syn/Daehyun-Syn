@@ -26,7 +26,10 @@
 |2021.07 <br>~<br> 2021.11|식품 알레르기 환자를 위한 식품 알레르기 예방 서비스|👨‍👩‍👧‍👦<br>팀 프로젝트|신대현,오주현,김학겸,이진아|
 |2021.03 <br>~<br> 2021.10|TensorFlow와 Papago API를 사용한 음식 인식 및 번역 서비스|👨‍👩‍👧‍👧<br>팀 프로젝트|신대현,오주현,유연준,<br>이진아,김학겸|
  
- 
+### 💁‍♂️ About Me ###
+
+<hr/><br>
+
 ☁️SNS list
 
  <a href="https://www.instagram.com/syndaehyun" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
