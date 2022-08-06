@@ -6,7 +6,14 @@
 ✨Think Positive! 항상 긍정의 힘을 믿으며 앞으로 나아가는<br> 주니어 개발자 신대현입니다👋
 
 <br>
+🎖️ Awards
 <hr/><br>
+ 
+|공모전명|주최기관|부문|수상내역|
+|:---:|:---:|:---:|:---:|
+|파스-타 기반 서비스 개발 공모전|한국지능정보사회진흥원|개발|🎖️특별상<br>한국클라우드컴퓨팅연구조합 이사장상|
+|한이음 ICT 공모전|과학기술정보통신부|개발|🎖️입선|
+ 
 ☁️SNS list
 
  <a href="https://www.instagram.com/syndaehyun" target="_blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white"/></a>
